@@ -4124,7 +4124,8 @@
       "REVIVES",
       "PATH_AVOID_DANGER_2",
       "PRIORITIZE_TARGETS",
-      "FILTHY"
+      "FILTHY",
+      "CAN_OPEN_DOORS"
     ]
   },
   {
@@ -4171,7 +4172,8 @@
       "REVIVES",
       "PATH_AVOID_DANGER_1",
       "PRIORITIZE_TARGETS",
-      "FILTHY"
+      "FILTHY",
+      "CAN_OPEN_DOORS"
     ]
   },
   {
